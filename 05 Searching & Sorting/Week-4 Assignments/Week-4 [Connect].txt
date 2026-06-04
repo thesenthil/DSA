@@ -1,3 +1,0 @@
-HOMEWORK
-in pivot ques, make condition using mid and end
-sqrt with precision using binary search in precision part too

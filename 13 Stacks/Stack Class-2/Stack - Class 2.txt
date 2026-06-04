@@ -1,7 +1,0 @@
-insert at bottom
-reverse a stack (IMP)
-valid parenthesis (IMP)
-sort a stack (IMP)
-
-HOMEWORK
-redundant brackets present or not

@@ -1,6 +1,0 @@
-HOMEWORK
-which operators you can overload
-rather than making print function to print all the properties of object, use << operator to do so using operator overloading
-    output stream
-    input stream
-same for cin >>
